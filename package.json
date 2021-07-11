@@ -1,0 +1,15 @@
+{
+	"name": "DZ-30",
+	"version": "1.0.0",
+	"description": "Простейший сервер, который будет отправлять на клиент информацию об операционной системе",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"author": "NR",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.12"
+	}
+}
